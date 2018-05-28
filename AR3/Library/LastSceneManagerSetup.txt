@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Datafiles/Scenes/ARGreetingCardScene.unity
+- path: Assets/Datafiles/Scenes/RotatingCube.unity
   isLoaded: 1
   isActive: 1
